@@ -1,4 +1,4 @@
 GitHub Pull Request Demo
-Version 1.0
+Version 2.0
 This change was added via a Pull Request.
-This is a new line for the second change in this practice.
+This is a new line for the 4th step in the "Pull Request" project.
